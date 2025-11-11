@@ -6,8 +6,20 @@ list_length = len(my_list)
 
 if direction == 'right':
 
-if index_of_one < list_length - 1: my_list[index_of_one] = 0 my_list[index_of_one + 1] = 
+if index_of_one < list_length - 1:
 
-elif direction == 'left': if index of one > 0: my_list[index_of_one] = 0 my_list[index_of_one 1] = 1
+my_list[index_of_one] = 0
+
+my_list[index_of_one +
+
+1] = 1
+
+elif direction == 'left':
+
+if index_of_one > 0:
+
+my_list[index_of_one] = 0
+
+my_list[index_of_one -
 
 return my_list
